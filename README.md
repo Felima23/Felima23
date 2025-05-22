@@ -32,3 +32,8 @@
   </a>
 </p>
 
+<p align="left">
+  <img align="center" src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" />
+</p>
+
+
